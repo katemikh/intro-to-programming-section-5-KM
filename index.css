@@ -13,3 +13,8 @@ main {
 #reset {
   margin: 20px;
 }
+// added red backlight
+#below-zero,
+#above-hundred {
+  color: red;
+}
